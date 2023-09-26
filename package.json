@@ -1,0 +1,33 @@
+{
+  "name": "byrd.hans.ijc",
+  "displayName": "Hans Extension Pack (byrd)",
+  "description": "Extension pack to compliment Hans",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bierner.github-markdown-preview",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "matangover.mypy",
+    "Mikael.Angular-BeastCode",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode.makefile-tools",
+    "ms-vscode.wordcount",
+    "npxms.hide-gitignored",
+    "stkb.rewrap",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-german",
+    "tamasfe.even-better-toml",
+    "waderyan.gitblame"
+  ]
+}
